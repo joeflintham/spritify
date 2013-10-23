@@ -1,0 +1,109 @@
+.sprite.frame1 {
+     background-image: url(../images/sprite.png);
+     background-position:-0px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame2 {
+     background-image: url(../images/sprite.png);
+     background-position:-120px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame3 {
+     background-image: url(../images/sprite.png);
+     background-position:-240px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame4 {
+     background-image: url(../images/sprite.png);
+     background-position:-360px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame5 {
+     background-image: url(../images/sprite.png);
+     background-position:-480px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame6 {
+     background-image: url(../images/sprite.png);
+     background-position:-600px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame7 {
+     background-image: url(../images/sprite.png);
+     background-position:-720px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame8 {
+     background-image: url(../images/sprite.png);
+     background-position:-840px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame9 {
+     background-image: url(../images/sprite.png);
+     background-position:-960px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame10 {
+     background-image: url(../images/sprite.png);
+     background-position:-1080px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame11 {
+     background-image: url(../images/sprite.png);
+     background-position:-1200px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+.sprite.frame12 {
+     background-image: url(../images/sprite.png);
+     background-position:-1320px 0;
+     background-color: transparent;
+     display: block;
+     overflow: hidden;
+     width: 120px;
+     height: 150px;
+     }
+

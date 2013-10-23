@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Spritify Demo</title>
+    <link rel="stylesheet" href="css/sprite.css">
+    <script src="jq.js" language="javascript"></script>
+    <script>
+      var counter = 1;
+      var changeFrame = function(){
+          if (counter > 12) counter = 1;
+          lastCounter = counter -1;
+          if (lastCounter < 1) lastCounter = 12;
+          var lastClass = "frame" + lastCounter;
+          var nextClass = "frame" + counter;
+          console.log('removing ' + lastClass +', adding ' + nextClass);
+          $('#demo_sprite').removeClass(lastClass).addClass(nextClass);
+          counter++;
+      }
+      setInterval(changeFrame, 100);
+    </script>
+    <style>
+      div#demo_sprite {
+         margin: 10% auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="demo_sprite" class="sprite"></div>
+  </body>
+</html>
