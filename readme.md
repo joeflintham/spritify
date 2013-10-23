@@ -22,7 +22,7 @@ A demo is included in the repository. Make ./demo.sh executable and it will turn
 * -h: path from this script to the desired CSS output file destination; defaults to spritify/output/css  
 * -j: path from this script to the desired JSON output file destination; defaults to spritify/output/json  
 * -t: background image to use in sprite frames; default no background (implemented using a blank png)  
-* -c: path from the location of the css directive to the image location; (i.e. from outputCSSpath to outputImagepath); defaults to '../css' as in the spritify/output structure
+* -c: path from the location of the css directive to the image location; defaults to '../css' as in the spritify/output structure
 
 ## todo
 
